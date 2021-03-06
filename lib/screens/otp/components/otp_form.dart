@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_ecommerce_app/screens/login_success/login_success_screen.dart';
 import 'package:flutter_ecommerce_app/screens/splash/components/default_button.dart';
 
 import '../../../constant.dart';
@@ -110,7 +111,7 @@ class _OtpFormState extends State<OtpForm> {
             text: "Continue",
             press: () {
               if(_formKey.currentState.validate()){
-
+                Navigator.pushNamed(context, LoginSuccessScreen.routeName);
               }
             },
           ),

@@ -1,13 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_ecommerce_app/constant.dart';
-import 'package:flutter_ecommerce_app/screens/sign_in/components/custom_suffix_icon.dart';
-import 'package:flutter_ecommerce_app/screens/sign_in/components/error_form.dart';
 import 'package:flutter_ecommerce_app/screens/sign_in/components/sign_form.dart';
-import 'package:flutter_ecommerce_app/screens/sign_in/components/social_card.dart';
-import 'package:flutter_ecommerce_app/screens/splash/components/default_button.dart';
-import 'package:flutter_ecommerce_app/size_config.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+import 'package:flutter_ecommerce_app/screens/sign_in/components/social_card.dart';import 'package:flutter_ecommerce_app/size_config.dart';
 
 import '../../../theme.dart';
 import 'no_account_text.dart';

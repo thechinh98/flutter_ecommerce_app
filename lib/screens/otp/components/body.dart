@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ecommerce_app/constant.dart';
-import 'package:flutter_ecommerce_app/screens/splash/components/default_button.dart';
 import 'package:flutter_ecommerce_app/size_config.dart';
 
 import 'otp_form.dart';

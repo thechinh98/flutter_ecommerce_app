@@ -3,7 +3,6 @@ import 'package:flutter_ecommerce_app/constant.dart';
 import 'package:flutter_ecommerce_app/screens/sign_in/components/custom_suffix_icon.dart';
 import 'package:flutter_ecommerce_app/screens/sign_in/components/social_card.dart';
 import 'package:flutter_ecommerce_app/screens/sign_up/components/sign_up_form.dart';
-import 'package:flutter_ecommerce_app/screens/splash/components/default_button.dart';
 
 import '../../../size_config.dart';
 
