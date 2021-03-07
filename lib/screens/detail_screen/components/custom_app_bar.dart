@@ -26,7 +26,9 @@ class CustomAppBar extends PreferredSize {
               width: getProportionateScreenWidth(40),
               child: RoundedIconBtn(
                 iconData: Icons.arrow_back,
-                press: () {},
+                press: () {
+                  Navigator.pop(context);
+                },
               )
             ),
             Container(

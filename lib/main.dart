@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ecommerce_app/constant.dart';
 import 'package:flutter_ecommerce_app/route.dart';
+import 'package:flutter_ecommerce_app/screens/profile_screen/profile_screen.dart';
 import 'package:flutter_ecommerce_app/screens/splash/splash_screen.dart';
 import 'package:flutter_ecommerce_app/theme.dart';
 
